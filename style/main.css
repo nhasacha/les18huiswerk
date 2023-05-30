@@ -60,7 +60,7 @@ line-height: 1.6;
 min-height: 420px;
 text-align: justify;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 992px) {
 [class*="col-"] {
 padding: 15px;
 }
@@ -70,7 +70,7 @@ width: 91,65%;
 background-color: #F0D4AD;
 padding-right: 30px;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 992px) {
 .col-2{
 width: 16.66%;
 background-color: #B8915A;
@@ -80,7 +80,7 @@ background-color: #B8915A;
 width: 91,65%;
 background-color: #8FA88A;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 992px) {
 .col-4{
 width: 33.33%;
 }
@@ -89,7 +89,7 @@ width: 33.33%;
 width: 91,65%;
 background-color: #997462;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 900px) {
 .col-5{
 width: 41.66%;
 }
@@ -98,10 +98,12 @@ width: 41.66%;
 #artisfoto{
 float: right;
 margin-left: 15px;
+margin-bottom: 12px;
 }
 #rijksfoto{
 float: right;
 margin-left: 15px;
+margin-bottom: 12px;
 }
 
 
